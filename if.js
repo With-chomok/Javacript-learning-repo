@@ -32,3 +32,5 @@ if((haveChannel == true && height > 5 ) || weight > 45 && vedioViews < 100000){
     console.log("amar samne theke dhur hoye ja beda ,,juggotai nei tor");
     
 }
+
+
